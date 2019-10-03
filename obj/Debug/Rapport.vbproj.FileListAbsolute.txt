@@ -1,0 +1,14 @@
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\bin\Debug\Rapport.exe.config
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\bin\Debug\Rapport.exe
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\bin\Debug\Rapport.pdb
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\bin\Debug\Rapport.xml
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.vbprojAssemblyReference.cache
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.Form1.resources
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.Resources.resources
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.vbproj.GenerateResource.cache
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.vbproj.CoreCompileInputs.cache
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.exe
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.xml
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.pdb
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\obj\Debug\Rapport.Form2.resources
+C:\Users\khaoula\Desktop\Nouveau dossier\Rapport\Rapport\bin\Debug\Database121.mdb

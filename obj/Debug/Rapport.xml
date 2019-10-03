@@ -1,0 +1,466 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Rapport
+</name>
+</assembly>
+<members>
+<member name="T:Rapport.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Rapport.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Rapport.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:Rapport.My.Resources.Resources.WhatsApp_Image_2019_07_19_at_11_32_10">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Rapport.My.Resources.Resources.WhatsApp_Image_2019_07_19_at_11_32_12">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Rapport.My.Resources.Resources.WhatsApp_Image_2019_07_19_at_13_17_24">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet.BULD11DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet.BULLD9DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet.BULD11Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet.BULLD9Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet.BULD11RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet.BULLD9RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSetTableAdapters.BULD11TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSetTableAdapters.BULLD9TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Rapport.Database121DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Rapport.Database121DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Rapport.Database121DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSetTableAdapters.TableAdapterManager.UpdateAll(Rapport.Database121DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1.BULD11DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1.BULLD9DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1.BULD11Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1.BULLD9Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1.BULD11RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1.BULLD9RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1TableAdapters.BULD11TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1TableAdapters.BULLD9TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Rapport.Database121DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Rapport.Database121DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Rapport.Database121DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet1TableAdapters.TableAdapterManager.UpdateAll(Rapport.Database121DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2.BULD11DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2.BULLD9DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2.BULD11Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2.BULLD9Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2.BULD11RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2.BULLD9RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2TableAdapters.BULD11TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2TableAdapters.BULLD9TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Rapport.Database121DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Rapport.Database121DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Rapport.Database121DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet2TableAdapters.TableAdapterManager.UpdateAll(Rapport.Database121DataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3.BULD11DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3.BULLD9DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3.BULD11Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3.BULLD9Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3.BULD11RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3.BULLD9RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3TableAdapters.BULD11TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3TableAdapters.BULLD9TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Rapport.Database121DataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Rapport.Database121DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Rapport.Database121DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet3TableAdapters.TableAdapterManager.UpdateAll(Rapport.Database121DataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4.BULD11DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4.BULLD9DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4.BULD11Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4.BULLD9Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4.BULD11RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4.BULLD9RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4TableAdapters.BULD11TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4TableAdapters.BULLD9TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(Rapport.Database121DataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(Rapport.Database121DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(Rapport.Database121DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Rapport.Database121DataSet4TableAdapters.TableAdapterManager.UpdateAll(Rapport.Database121DataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Rapport.Database121DataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
